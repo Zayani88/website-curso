@@ -21,7 +21,7 @@ table, th, td {
 .box {
     display: flex;
     justify-content: center;
-    background-color:  orange;
+    background-color:  rgb(0, 72, 255);
     width: 100px;
     height: 100px;
     align-items: center;
@@ -30,7 +30,7 @@ table, th, td {
 
 .header{
     height: 225px;
-    background-color: orange;
+    background-color: rgb(0, 221, 255);
     display: flex;
     justify-content: space-evenly;
     align-items: center;
